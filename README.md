@@ -1,0 +1,1 @@
+The COVID-19 pandemic has affected the world in unprecedented ways, and Europe has been one of the most severely impacted continents. In this SQL data science project, we will perform exploratory data analysis (EDA) on COVID-19 data in Europe to gain insights and answer some questions related to the pandemic’s impact on the continent.
